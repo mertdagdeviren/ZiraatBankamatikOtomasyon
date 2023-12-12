@@ -1,2 +1,2 @@
 # ZiraatBankamatikOtomasyon
-Veritabanı kullanarak Ziraat Bankasının ATM otomasyonu sistemi örneği
+DELPHİ ile Veritabanı kullanarak Ziraat Bankasının ATM otomasyonu sistemi örneği
